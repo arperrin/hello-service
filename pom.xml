@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.perrin</groupId>
 	<artifactId>hello-service</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>hello-service</name>
 	<description>Demo project for hello-service</description>
 
@@ -20,7 +20,7 @@
 
 	<scm>
 		<developerConnection>scm:git:https://github.com/arperrin/hello-service.git</developerConnection>
-  	  	<tag>hello-service-0.0.1</tag>
+  	  	<tag>HEAD</tag>
 	</scm>
 
 	<dependencies>
